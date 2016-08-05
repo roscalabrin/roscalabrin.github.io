@@ -11,7 +11,7 @@ email: ro.scalabrin@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Denver based full-stack developer who traded the beaches for the mountains. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://github.com/roscalabrin/personal_blog" # the base hostname & protocol for your site
+url: "https://github.com/roscalabrin" # the base hostname & protocol for your site
 twitter_username: ro_scalabrin
 github_username:  roscalabrin
 
