@@ -19,10 +19,11 @@ The first documented version of HTTP was released back in 1991, followed by revi
 As I was writing this blog post, I was trying to remember what the web was like back in 1997.
 Let’s just start by mentioning that Google.com didn’t exist in 1996! The domain was in fact registered in September, 1997. I also browsed through  [WaybackMachine](http://archive.org/web/) just to get a visual representation of what was going on almost 20 years ago. Here’re just two examples: 
 
-![yahoo.com - 1996](/assets/yahoo.png) 
 
-
-![whitehouse.gov - 1996](/assets/whitehouse.png)
+<img src="/assets/yahoo.png" width="600" height="400">
+<br />
+<br />
+<img src="/assets/whitehouse.png" width="600" height="400">
 
 Websites and applications have and continue to become far more complex.
 
@@ -35,7 +36,7 @@ The goal of HTTP/2 is for performance. Mainly, tackling the end-user perceived l
 As of 2016, [HTTP/2 is used by 9% of all websites.](https://w3techs.com/technologies/details/ce-http2/all/all) 
 Some of the most popular sites using HTTP/2  are Google.com, Facebook.com, YouTube.com, Yahoo.com, Wikipedia.org, Twitter.com.
 
-![HTTP/2 usage](/assets/growth_chart.png)
+<img src="/assets/growth_chart.png" width="600" height="400">
 
 HTTP/2 is not a new protocol. As Mark Nottingham (HTTPbis WG Chair) pointed out “...we are not replacing all of HTTP – the methods, status codes, and most of the headers you use today will be the same. Instead, we’re redefining how it gets used “on the wire”, so it’s more efficient, and so that it is more gentle to the internet itself…”
 

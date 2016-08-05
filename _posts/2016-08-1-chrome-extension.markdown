@@ -13,9 +13,11 @@ I started with a big idea of implementing an extension that would be similar to 
 
 While I was reading and playing around with some Chrome Extension tutorials, and found myself getting lost with my all my bookmarked pages. I decided to hold off on my initial idea, and implement something that would be helpful for me right away. I implemented a simple Google Chrome extension to organize the most important links I was frequently using during my first module at Turing. 
 
-![chrome_extension_screenshot_zoom](/assets/chrome_extension_browser.png)
-![chrome_extension_screenshot_browser](/assets/chrome_extension_zoom.png)
 
+<img src="/assets/chrome_extension_browser.png" width="600" height="400">
+<br />
+<br />
+<img src="/assets/chrome_extension_zoom.png" width="200" height="300">
 
 To me the biggest learning was just getting something done. It doesn't matter how big or small it is, but it's important to set a goal and implement little projects. I worked with my first JSON file for this extension, used some HTML, CSS and JavaScript. It was simple, nothing very complicated, but it was very rewarding to submit my own extension to the Chrome Store.
 
